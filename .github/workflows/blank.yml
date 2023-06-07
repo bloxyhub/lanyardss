@@ -1,0 +1,2 @@
+- name: Discord Status
+  uses: CompeyDev/discord-status-action@0.3.2
